@@ -1,5 +1,5 @@
 # Repository Name
-`my-awesome-project`
+`agip-final-cloud-app-with-database`
 
 # Project Name
-My Awesome Project Name
+Dealership Network Application
